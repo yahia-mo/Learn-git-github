@@ -1,0 +1,5 @@
+Second file, happy life.
+..When you want to learn anything, you have to practice,
+ no one can learn how to cook without burning a meal, spoiling it..
+so, try, don't make your fears stop you from real learning
+use "git log" to know who I am!
